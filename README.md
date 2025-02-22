@@ -1,1 +1,1 @@
-# ReactNative-Fitness-app
+# fitness-app
