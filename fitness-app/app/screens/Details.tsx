@@ -14,10 +14,10 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#1e1e1e', // Dark grey/light black
+    backgroundColor: '#1e1e1e', 
   },
   text: {
-    color: '#fff', // White text for better visibility
+    color: '#fff',
     fontSize: 18,
   },
 });

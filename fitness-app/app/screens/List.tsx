@@ -37,7 +37,7 @@ const List = ({ navigation }: RouterProps) => {
             {/* Background Video */}
             <Video
                 ref={videoRef}
-                source={require('../../assets/video.mp4')} // Ensure correct path
+                source={require('../../assets/video.mp4')} 
                 style={styles.backgroundVideo}
                 shouldPlay
                 isLooping

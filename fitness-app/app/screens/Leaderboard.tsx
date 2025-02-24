@@ -50,13 +50,13 @@ const styles = StyleSheet.create({
         flex: 1,
         justifyContent: 'center',
         alignItems: 'center',
-        backgroundColor: '#1e1e1e', // Dark grey/light black
+        backgroundColor: '#1e1e1e', 
     },
     title: {
         fontSize: 24,
         fontWeight: 'bold',
         marginBottom: 20,
-        color: '#fff', // White text for better contrast
+        color: '#fff', 
     },
     item: {
         flexDirection: 'row',
@@ -64,10 +64,10 @@ const styles = StyleSheet.create({
         width: '80%',
         padding: 10,
         borderBottomWidth: 1,
-        borderBottomColor: '#444', // Slightly lighter grey for the separator
+        borderBottomColor: '#444', 
     },
     text: {
-        color: '#fff', // White text for better visibility
+        color: '#fff', 
     },
 });
 
